@@ -332,7 +332,7 @@ body.light-mode:before {
 }
 
 .side-title {
-  color: var(--inactive-color);
+  color: var(--theme-color);
   margin-bottom: 14px;
 }
 
