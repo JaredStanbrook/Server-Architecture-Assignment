@@ -513,12 +513,13 @@ body.light-mode:before {
 }
 
 .content-section {
-  font-weight: 200;
+  font-weight: 300;
   margin-top: 30px;
   display: flex;
   flex-direction: column;
 }
 .content-section-title {
+  font-weight: 400;
   color: var(--content-title-color);
   margin-bottom: 14px;
 }
